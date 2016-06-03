@@ -1,0 +1,9 @@
+Building DBGold
+
+See doc/readme-qt.rst for instructions on building DBGold QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DBGold.
+
+See doc/build-*.txt for instructions on building DBGoldd,
+the intended-for-services, no-graphical-interface, reference
+implementation of DBGold.
